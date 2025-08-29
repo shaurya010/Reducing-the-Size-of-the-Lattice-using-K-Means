@@ -67,5 +67,4 @@ The proposed methodology applies **K-Means clustering** to lattice datasets:
 
 ---
 
-## 📂 Repository Structure  
 
